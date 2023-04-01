@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/memorandum/static/css/main.d4d5471f.css",
+    "main.js": "/memorandum/static/js/main.dea06fc1.js",
+    "static/media/rick.mp4": "/memorandum/static/media/rick.c7c91519d5a58354aefa.mp4",
+    "index.html": "/memorandum/index.html",
+    "main.d4d5471f.css.map": "/memorandum/static/css/main.d4d5471f.css.map",
+    "main.dea06fc1.js.map": "/memorandum/static/js/main.dea06fc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d5471f.css",
+    "static/js/main.dea06fc1.js"
+  ]
+}
